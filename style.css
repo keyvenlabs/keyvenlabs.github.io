@@ -93,6 +93,12 @@ p {
   line-height: 1.6;
 }
 
+/* Warnings */
+.warning {
+  background-color: rgba(255, 198, 82, 0.6);
+  padding: 3em;
+  border: 3px solid rgb(230, 10, 10);
+}
 /* BUTTONS */
 .hero-buttons {
   margin-top: 30px;
