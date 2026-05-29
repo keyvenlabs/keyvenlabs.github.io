@@ -28,6 +28,10 @@ header h1 {
   letter-spacing: 1px;
 }
 
+header > a {
+  display: inline-block;
+}
+
 nav ul {
   list-style: none;
   display: flex;
