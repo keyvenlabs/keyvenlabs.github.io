@@ -174,7 +174,7 @@ footer {
 }
 
 /* RW */
-@media screen and (min-width: 688px) {
+@media screen and (max-width: 688px) {
   header img {
     display: block;
   }
